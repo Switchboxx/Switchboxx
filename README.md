@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many different projects such as voice acting in Portal mods. Beta Testing for AI companies and Indie Game Developers, I also love bringing older lost media back to life!
 - 📫 How to reach me: Discord: switchboxx
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 15!
+- ⚡ Fun fact: I MIGHT like QA work!
 
 <!---
 Switchboxx/Switchboxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
